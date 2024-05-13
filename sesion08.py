@@ -1,4 +1,4 @@
-# Estructuras de datos
+# Estructuras de datos. Tuplas
 
 print ("Tupla de enteros")
 enteros = (1,2,3,4,5,6)
