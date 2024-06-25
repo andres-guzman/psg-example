@@ -146,6 +146,3 @@ print(diccionario)
 par = diccionario.popitem()
 print(par, type(par))
 print(diccionario)
-
-
-# Continuar y llenar con ejemplos del repositorio PSG
